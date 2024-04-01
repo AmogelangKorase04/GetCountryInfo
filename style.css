@@ -1,0 +1,11 @@
+article{
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    list-style-type: none;
+}
+*{
+    background-color:aliceblue;
+    text-align: center;
+}
